@@ -6,3 +6,4 @@ abcd
 冲突2
 che
 add1
+test1
