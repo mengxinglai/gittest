@@ -543,6 +543,11 @@ public class FwjyZfcfjfController {
 		}
 		return HttpService.setHttpResult(httpResult);
 	}
+	
+	
+	public void fun3(){
+		int a=1;
+	}
 
 	/**
 	 * 执法解封完成办理
